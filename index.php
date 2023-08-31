@@ -77,7 +77,7 @@
     </div>
 
     <div class="container-fluid bg-dark text-white text-center py-3 mt-5">
-        copyright@2023 I-discuss <a href="https://github.com/hardiksinh02/forum.github.io"> Goto git hub repo</a>
+        copyright@2023 I-discuss <a href="https://github.com/hardiksinh02/forum.github.io"> Go to git hub repo</a>
     </div>
 
     <div class></div>
